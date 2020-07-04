@@ -5,4 +5,4 @@
 - This model will automatically find the total as well as the percentage of the students 
 - This model will also decide weather a student is passed or not.
 - After Calculating all the required parameters it will store all information in a particular database.
-- You can inset n number of data at once because iterative method is used in the project.
+- You can insert n number of data at once because iterative method is used in the project.
