@@ -1,0 +1,6 @@
+ID	Name	English	Physics	Chemistry	Maths	Total	Percentage	Comment
+1	Santosh Saxena	82	92	89	92	355	88.75	Pass
+2	Mukesh Saxena	71	82	85	87	325	81.25	Pass
+3	Muskan Mohan	0	0	0	0	0	NULL	Fail
+4	Harsh Mahalle	72	63	91	32	258	NULL	Fail
+5	Shrey Savalia	92	82	73	92	339	84.75	Pass
